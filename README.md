@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm currently a Bachelor student at [EPFL](https://www.epfl.ch/fr/) in Switzerland :switzerland:, in the Chemistry and Chemical Engineering section.
-
+- 📫 How to reach me: theo.moralescrassier@epfl.ch
 <!--
 **theo-moralescrassier/theo-moralescrassier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
