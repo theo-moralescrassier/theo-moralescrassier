@@ -2,10 +2,11 @@
 I'm currently a Bachelor student at [EPFL](https://www.epfl.ch/fr/) in Switzerland 🇨🇭, in the Chemistry and Chemical Engineering section.
 ### 📫 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-theo--moralescrassier-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theo-moralescrassier)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Théo_Morales_Crassier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-morales-crassier-78319a421)
+[![GitHub](https://img.shields.io/badge/GitHub-theo--moralescrassier-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/theo-moralescrassier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Théo_Morales_Crassier-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-morales-crassier-78319a421)
 [![EPFL Email](https://img.shields.io/badge/Email-EPFL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:theo.moralescrassier@epfl.ch)
 [![Personal Email](https://img.shields.io/badge/Email-theomorales2006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theomorales2006@gmail.com)
+
 
 
 <!--
